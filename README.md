@@ -1,5 +1,3 @@
-# ai-agent-demo
-
 # AI Agent Demo — Autonomous Research & Report Generator
 
 This project demonstrates a minimal **AI Agent** that can  
